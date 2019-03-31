@@ -1,0 +1,9 @@
+[package]
+name = "spritesheeter"
+version = "0.1.0"
+authors = ["sirkibsirkib <christopher.esterhuyse@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+image = "0.21.0"
+clap = "2.32.0"
